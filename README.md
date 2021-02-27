@@ -1,3 +1,4 @@
+#Sudoko GUI Solver
 A Sudoko GUI Solver that uses a backtracking algorithm to solve these numerical puzzles. Also includes a graphical GUI component as well in order to visually see how it incrementally comes to a solution 
 run GUI.py to play sudoku 
 
